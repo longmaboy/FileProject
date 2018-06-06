@@ -1,0 +1,8 @@
+1.配置iterm
+
+a.拷贝iterm到应用程序
+b.拷贝dotfiles.tgz oh－my－zsh.tgz 到家目录
+c.解压缩tar xfvz dotfiles.tgz > 进入 cd dotfiles > 执行 ./install.sh
+d.cd .. 然后解压缩tat xfvz oh－my－zsh.tgz 
+e.chsh -s /bin/zsh
+f.重启iterm
